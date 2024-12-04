@@ -1,0 +1,1 @@
+TODO: Create Color Classes (at least two), implementing the correct interface
