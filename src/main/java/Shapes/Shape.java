@@ -1,9 +1,11 @@
 package Shapes;
 
-public abstract class Shape {
-    String color; //TODO: Adjust to use the new Color type
+import Colors.Color;
 
-    public Shape(String color) {
+public abstract class Shape {
+    public Color color; //TODO: Adjust to use the new Color type
+
+    public Shape(Color color) {
         this.color = color;
     }
 
